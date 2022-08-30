@@ -82,7 +82,7 @@ footer{
 
 }
 .contener{
-    padding: 0.5%;
+    padding: 4.5%;
     display: grid;
     grid-template-columns: repeat(1, 1fr)
 }
@@ -91,6 +91,7 @@ footer{
     box-shadow: 0px 5px 5px grey;
     border: none;
     margin-top: 15px;
+    margin-bottom: 20px;
     border-radius: 1rem;
 }
 
@@ -114,5 +115,7 @@ footer{
 }
 
 @media screen and (min-width: 992px) {
-    
+    .contener{
+        padding: 18.5%;
+    }
 }
