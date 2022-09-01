@@ -121,5 +121,7 @@ footer{
 @media screen and (min-width: 992px) {
     .contener{
         padding: 18.5%;
+        padding-top: 5%;
+        padding-bottom: 5%;
     }
 }
