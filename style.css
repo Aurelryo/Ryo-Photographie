@@ -5,7 +5,11 @@
 
 body{
     margin: 0px;
-    background-image: url(/image/pexels-photo-2599247.jpeg);
+    background-image: url(/image//old-black-background-grunge-texture-dark-wallpaper-blackboard-chalkboard-room-wall.jpg); 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
 }
 h1{
     font-family: "shrikhand";
